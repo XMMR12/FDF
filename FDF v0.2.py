@@ -42,7 +42,7 @@ while True:
 	con.close()
 
 	print ("""
-	Done by >>>FDF>>>FUE Database Fuck v0.2
+	Done by >>>FCF>>>FUE Cruch'sData Finder v0.2
 	@Author:Ahmed Mohiy
 	i am not fucking responsibile for anything that anyone do with this script
 	i am just a thinker ^.^
