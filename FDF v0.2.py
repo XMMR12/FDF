@@ -44,7 +44,7 @@ while True:
 	print ("""
 	Done by >>>FCF>>>FUE Cruch'sData Finder v0.2
 	@Author:Ahmed Mohiy
-	i am not fucking responsibile for anything that anyone do with this script
+	i am not fucking responsible for anything that anyone do with this script
 	i am just a thinker ^.^
 	--------------------------
 	\n\n"""+'Full Name: '+Name+'\nMobile: '+Mobile+'\nEmail: '+Email)
