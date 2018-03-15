@@ -48,8 +48,6 @@ while True:
 	i am just a thinker ^.^
 	--------------------------
 	\n\n"""+'Full Name: '+Name+'\nMobile: '+Mobile+'\nEmail: '+Email)
-	os.system('pause')
-	
 	ans=''
 	ans=raw_input('Do u want to search again ?\n')
 	if ans.lower()=='no' or ans.lower()=='n':
